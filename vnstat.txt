@@ -1,0 +1,91 @@
+snow1
+Database updated: Sat Jun 19 23:33:28 2021
+
+   eth0 since 24/03/21
+
+          rx:  26.02 GiB      tx:  22.82 GiB      total:  48.84 GiB
+
+   monthly
+                     rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+       may '21     12.20 GiB |   11.41 GiB |   23.61 GiB |   75.73 kbit/s
+       jun '21      7.14 GiB |    6.78 GiB |   13.92 GiB |   72.90 kbit/s
+     ------------------------+-------------+-------------+---------------
+     estimated     11.28 GiB |   10.71 GiB |   22.00 GiB |
+
+   daily
+                     rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+     yesterday    793.02 MiB |  803.09 MiB |    1.56 GiB |  154.97 kbit/s
+         today    138.91 MiB |   87.83 MiB |  226.73 MiB |   22.43 kbit/s
+     ------------------------+-------------+-------------+---------------
+     estimated       140 MiB |      88 MiB |     228 MiB |
+
+snow3
+Database updated: Sat Jun 19 23:34:39 2021
+
+   eth0 since 24/03/21
+
+          rx:  16.43 GiB      tx:  14.79 GiB      total:  31.21 GiB
+
+   monthly
+                     rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+       may '21     10.44 GiB |   10.05 GiB |   20.49 GiB |   65.71 kbit/s
+       jun '21      3.45 GiB |    3.03 GiB |    6.48 GiB |   33.96 kbit/s
+     ------------------------+-------------+-------------+---------------
+     estimated      5.45 GiB |    4.79 GiB |   10.24 GiB |
+
+   daily
+                     rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+     yesterday    158.79 MiB |  139.02 MiB |  297.81 MiB |   28.91 kbit/s
+         today    116.74 MiB |   93.50 MiB |  210.24 MiB |   20.78 kbit/s
+     ------------------------+-------------+-------------+---------------
+     estimated       118 MiB |      94 MiB |     212 MiB |
+
+snow4
+Database updated: Sat Jun 19 23:30:18 2021
+
+   eth0 since 24/03/21
+
+          rx:  15.58 GiB      tx:  12.42 GiB      total:  28.00 GiB
+
+   monthly
+                     rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+       may '21      8.19 GiB |    7.33 GiB |   15.52 GiB |   49.76 kbit/s
+       jun '21      4.37 GiB |    4.07 GiB |    8.44 GiB |   44.21 kbit/s
+     ------------------------+-------------+-------------+---------------
+     estimated      6.90 GiB |    6.43 GiB |   13.34 GiB |
+
+   daily
+                     rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+     yesterday    449.84 MiB |  442.73 MiB |  892.58 MiB |   86.66 kbit/s
+         today     68.48 MiB |   40.74 MiB |  109.22 MiB |   10.83 kbit/s
+     ------------------------+-------------+-------------+---------------
+     estimated        69 MiB |      40 MiB |     109 MiB |
+
+snow2	
+Database updated: Sat Jun 19 23:33:33 2021
+
+   eth0 since 24/03/21
+
+          rx:  19.87 GiB      tx:  16.86 GiB      total:  36.73 GiB
+
+   monthly
+                     rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+       may '21     11.47 GiB |   10.72 GiB |   22.19 GiB |   71.15 kbit/s
+       jun '21      5.38 GiB |    5.14 GiB |   10.51 GiB |   55.06 kbit/s
+     ------------------------+-------------+-------------+---------------
+     estimated      8.50 GiB |    8.12 GiB |   16.61 GiB |
+
+   daily
+                     rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+     yesterday    301.17 MiB |  274.45 MiB |  575.62 MiB |   55.89 kbit/s
+         today     66.59 MiB |   41.46 MiB |  108.05 MiB |   10.69 kbit/s
+     ------------------------+-------------+-------------+---------------
+     estimated        67 MiB |      41 MiB |     108 MiB |
